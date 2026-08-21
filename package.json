@@ -1,0 +1,13 @@
+{
+  "name": "inter-mtls-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ponte mTLS entre o LUV Caixa Forte e a API do Banco Inter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
